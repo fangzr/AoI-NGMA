@@ -49,9 +49,6 @@ The code implements simulation and optimization for energy harvesting aided mass
 - **Multiple Access Schemes:**  
   Separate simulation scripts are provided for TDMA (`Main_TDMA_MV_Num.m`), FDMA (`Main_FDMA_MV_Num.m`), and NOMA (`Main_NOMA_MV_Num.m` and `Main_NOMA_MV.m`). For NOMA, power allocation is calculated using the `Power_allocation.m` function.
 
-- **Data Extraction and Plotting:**  
-  Helper functions (`Get_data_from_struct_CCP_nonVaca.m` and `Get_data_from_struct_CCP_nonVaca_NOMA.m`) are used to extract simulation results for plotting. The main script (`main.m`) orchestrates the simulation runs and calls plotting routines to visualize results such as AoI and energy consumption.
-
 ---
 
 ## How to Run
