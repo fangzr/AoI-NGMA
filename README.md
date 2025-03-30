@@ -8,6 +8,8 @@ This repository provides a MATLAB implementation of the methods described in the
 
 The code focuses on simulating and optimizing the Age of Information (AoI) in massive multiple access networks that incorporate energy harvesting. It implements optimization algorithms using the convex-concave procedure (CCP) combined with MATLAB’s `fmincon` solver, and considers different multiple access schemes including TDMA, FDMA, and NOMA.
 
+- [Full Paper (PDF)](https://arxiv.org/pdf/2112.12326)
+
 ---
 
 ## File Structure
